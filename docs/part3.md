@@ -1,4 +1,4 @@
-[<< Part II Input and Output](part2.md) | [Root](index.md) | [Part IV Broadening the View >>](part4.md)
+[<< Part II Input and Output](part2.md) | [Home](index.md) | [Part IV Broadening the View >>](part4.md)
 
 
 [part1](part1.md)

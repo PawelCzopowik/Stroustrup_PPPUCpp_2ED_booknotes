@@ -1,4 +1,4 @@
-[<< Part III - Data and Algorithms](part3.md) | [Root](index.md)
+[<< Part III - Data and Algorithms](part3.md) | [Home](index.md)
 
 Part IV - Broadening the View
 ===

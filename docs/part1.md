@@ -1,5 +1,5 @@
 
-| [Part 2 - Input and Output >>](part2.md) | 
+ | [Home](index.md) | [Part 2 - Input and Output >>](part2.md) | 
 
 
 Part 1 - The Basics

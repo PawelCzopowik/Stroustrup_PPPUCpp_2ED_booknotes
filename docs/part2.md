@@ -1,4 +1,4 @@
-[<< Part I - The Basics](index.md) | [Part III Data and Algorithms >>](part3.md)
+[<< Part I - The Basics](index.md) | [Home](index.md) | [Part III Data and Algorithms >>](part3.md)
 
 # FLTK Setup
 - Download, extract
